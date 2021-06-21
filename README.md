@@ -12,7 +12,7 @@
 
 
 ## Step 1. 克隆代码
-`git clone https://github.com/xilibi2003/election.git`
+`git clone https://github.com/tyroyang/election.git`
 
 ## Step 2. 安装依赖
 ```
@@ -37,15 +37,4 @@ See free video tutorial for full explanation of these steps:
 ## Step 6. 启动
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
-
-
-
-加我微信：xlbxiong 加我备注：DApp，进入DApp 开发互助讨论群，微信二维码：
-<p align="center">
-  <img src="https://github.com/xilibi2003/Upchain-wallet/blob/master/img/tiny_qrcode.jpeg" width="300">
-</p>
-
-
-欢迎加入[深入浅出区块链 知识星球](https://learnblockchain.cn/images/zsxq.png) 成长更快一点。
-[深入浅出区块链](https://learnblockchain.cn/) - 系统学习区块链，学区块链都在这里，打造最好的区块链技术博客。
 
